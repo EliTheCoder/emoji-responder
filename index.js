@@ -12,4 +12,8 @@ app.get('/', function(req, res){
   res.send('hello there!');
 });
 
+app.post('/new-email', function(req, res){
+  console.log(req.body);
+});
+
 console.log('server listening on port', 3000);
