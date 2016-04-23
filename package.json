@@ -1,0 +1,18 @@
+{
+  "name": "emoji-responder",
+  "version": "0.0.1",
+  "description": "A program that responds to emails with an emojicon.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EXmaster9/emoji-responder.git"
+  },
+  "author": "Eli & Jude",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EXmaster9/emoji-responder/issues"
+  },
+  "homepage": "https://github.com/EXmaster9/emoji-responder#readme"
+}
