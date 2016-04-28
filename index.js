@@ -19,5 +19,6 @@ app.post('/new-email', function(req, res){
 });
 
 console.log('Listening on Port: ', 3000);
+console.log('Local Hosting Proccess is Complete.')
 
 
